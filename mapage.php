@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ceci est une page de test avec des balises PHP</title>
+    <title>Ceci est une page de test et il est <?php date('h:i:s'); ?></title>
     <meta charset="utf-8" />
 </head>
 <body>
